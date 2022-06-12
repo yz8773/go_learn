@@ -1,4 +1,4 @@
-package goHttpServer
+package main
 
 import (
 	"fmt"
